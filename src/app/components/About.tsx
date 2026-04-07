@@ -44,7 +44,7 @@ export function About() {
           </h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
             I'm a frontend developer with 4+ years of experience building modern web applications.
-            I specialize in React, TypeScript, and creating delightful user experiences that combine
+            I specialize in React, and creating delightful user experiences that combine
             beautiful design with solid functionality.
           </p>
         </motion.div>
